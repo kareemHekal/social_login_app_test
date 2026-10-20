@@ -1,0 +1,4 @@
+enum SocialProvider {
+  google,
+  facebook,
+}

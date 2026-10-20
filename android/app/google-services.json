@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41238382280",
+    "project_id": "social-login-test-ef879",
+    "storage_bucket": "social-login-test-ef879.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41238382280:android:8207d6e9d5ac66cba9c7fd",
+        "android_client_info": {
+          "package_name": "com.example.social_login_app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41238382280-joo8o0ift04hvn51bb0punjf6h2pn1ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgCqcMMCuhHH8Y9y9BSwPnDE6oFcd0PeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41238382280-joo8o0ift04hvn51bb0punjf6h2pn1ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
